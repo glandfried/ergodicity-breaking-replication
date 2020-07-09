@@ -1,0 +1,3 @@
+[submodule "software/erg"]
+	path = software/erg
+	url = git@github.com:glandfried/non-ergodic.git
